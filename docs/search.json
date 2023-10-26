@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-26T19:33:00+02:00"
+      "last_modified": "2023-10-26T20:01:41+02:00"
     },
     {
       "path": "index.html",
       "title": "temporal stability of risk",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-26T19:33:01+02:00"
+      "contents": "\r\nLink to Landing Page\r\nlibrary(rmarkdown)\r\nrender_site()\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-10-26T20:01:44+02:00"
     }
   ],
   "collections": []
