@@ -18,6 +18,8 @@ description: |
 site: distill::distill_website
 ---
 
+ footer and a table of contents on each page.
+
 [Link to Landing Page](landing-page.html)
 [Link to Index](index.html)
 [Link to About](about.html)

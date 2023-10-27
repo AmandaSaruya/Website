@@ -4,6 +4,8 @@ description: |
   Some additional details about the website
 ---
 
+ footer and a table of contents on each page.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -12,3 +14,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 render_site()
 
+An about me page: Include your photo, a text about you, and a few links of your choice (i.e., Email, LinkedIn). Tip 1: This article from Alison Hill has great step-by-step details on how to make postcards.
