@@ -8,3 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![The trend of the temporal stability of risk](C:/Users/holze/Documents/Website/highlight3.jpg)
+
+render_site()
+

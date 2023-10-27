@@ -1,15 +1,18 @@
 ---
 title: "temporal stability of risk"
 navbar:
-  left:
+  right:
     - text: "Home"
-      href: "index.html"
-    - text: "Dropdown"
+      href: index.html
+    - text: "Landing page"
+      href: landing-page.html
+    - text: "About"
+      href: about.html
       menu:
         - text: "Landing Page"
-          href: "landing-page.html"
+          href: landing-page.html
         - text: "About"
-          href: "about.html"
+          href: about.html
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -26,5 +29,6 @@ site: distill::distill_website
 library(rmarkdown)
 render_site()
 
+rmarkdown::render_site()
 
 

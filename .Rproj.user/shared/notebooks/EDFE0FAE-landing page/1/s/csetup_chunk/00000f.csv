@@ -1,28 +1,1 @@
-"0","render_site()
-"
-"2","
-Rendering: ./about.Rmd
-"
-"1","  |                                                                                                       "
-"1","  |                                                                                                 |   0%"
-"1","  |                                                                                                       "
-"1","  |................................                                                                 |  33%"
-"1","        "
-"1","  |                                                                                                       "
-"1","  |.................................................................                                |  67%"
-"1"," [setup]"
-"1","Error in `if (options$engine != ""R"") ...`:
-! Argument hat Länge 0
-Backtrace:
-  1. rmarkdown::render_site()
-  2. generator$render(...)
-  3. default$render(...)
-  4. base::sapply(...)
-  5. base::lapply(X = X, FUN = FUN, ...)
-     ...
- 11. knitr::knit(knit_input, knit_output, envir = envir, quiet = quiet)
- 12. knitr:::process_file(text, output)
- 16. knitr:::process_group.block(group)
- 17. knitr:::call_block(x)
- 18. knitr:::fix_options(params)
-"
+"0","knitr::opts_chunk$set(echo = FALSE)"

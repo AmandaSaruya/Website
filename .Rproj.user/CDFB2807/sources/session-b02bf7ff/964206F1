@@ -3,22 +3,24 @@
     "path": "C:/Users/holze/Documents/Website/about.Rmd",
     "project_path": "about.Rmd",
     "type": "r_markdown",
-    "hash": "1924189124",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1698345000631.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "14,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1698339798,
+    "lastKnownWriteTime": 1698395134,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1698339798,
+    "last_content_update": 1698395154006,
     "read_only": false,
     "read_only_alternatives": []
 }

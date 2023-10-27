@@ -5,6 +5,11 @@ date: 26.10.2023
 ---
 
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
 ## Author
 ```{r}
 "Hello everyone, my name is Amanda. I am currently a psychology student based near the city of Basel. Alongside my academic pursuits, I find solace and joy in the art of crocheting, drawing, and gaming offers. I love good food and I am always to have for a good recommendation.  Additionally, I cherish the moments spent with friends over good food and games."
@@ -22,8 +27,9 @@ Understanding the dynamics of temporal stability in risk perception can provide 
 ```
 
 
+![The trend of the temporal stability of risk](C:/Users/holze/Documents/Website/highlight3.jpg)
 
-
+rmarkdown::render("landing page.Rmd")
 
 render_site()
 
