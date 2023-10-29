@@ -21,7 +21,7 @@ site: distill::distill_website
 
 install.packages("postcards")
 
-postcards::create_postcard("postcard.Rmd")
+postcards::create_postcard("My project.Rmd")
 
 
  footer and a table of contents on each page.

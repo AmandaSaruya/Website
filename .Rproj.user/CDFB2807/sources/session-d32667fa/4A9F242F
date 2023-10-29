@@ -3,9 +3,9 @@
     "path": "C:/Users/holze/Documents/Website/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "4187849892",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1698339798873.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "last_setup_crc32": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1698578266,
+    "lastKnownWriteTime": 1698579033,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1698578460049,
+    "last_content_update": 1698579033031,
     "read_only": false,
     "read_only_alternatives": []
 }
