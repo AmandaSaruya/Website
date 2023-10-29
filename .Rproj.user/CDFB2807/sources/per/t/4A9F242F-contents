@@ -1,0 +1,41 @@
+---
+title: "temporal stability of risk"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Landing page"
+      href: landing-page.html
+    - text: "About"
+      href: about.html
+      menu:
+        - text: "Landing Page"
+          href: landing-page.html
+        - text: "About"
+          href: about.html
+
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+install.packages("postcards")
+
+postcards::create_postcard("My project.Rmd")
+
+
+ footer and a table of contents on each page.
+
+[Link to Landing Page](landing-page.html)
+[Link to Index](index.html)
+[Link to About](about.html)
+[Link to Postcdocs](postcard.html)
+
+
+
+
+
+

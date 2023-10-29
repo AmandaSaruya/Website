@@ -1,5 +1,8 @@
 ---
 title: "temporal stability of risk"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
 navbar:
   right:
     - text: "Home"

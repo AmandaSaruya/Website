@@ -1,6 +1,9 @@
 ---
 title: "landing page"
-output: distill::distill_article
+output:
+  html_document:
+    css: 
+      - "body { background-color: lightblue; }"
 ---
 
  footer and a table of contents on each page.
