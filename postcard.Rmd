@@ -1,0 +1,27 @@
+---
+title: "Willkommen!"
+image: "B.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Home
+    url: "index.html"
+  - label: landing page
+    url: "landing-page.html"
+  - label: Project
+    url: "about.html"
+  - label: Email
+    url: "mailto:amanda.holzer@stud.unibas.ch"
+output:
+  postcards::onofre
+---
+
+
+
+[Link to Landing Page](landing-page.html)
+[Link to Index](index.html)
+[Link to About](about.html)
+[Link to Postcdocs](postcard.html)
+
+Hello everyone, my name is Amanda. I am currently a psychology student based near the city of Basel. Alongside my academic pursuits, I find solace and joy in the art of crocheting, drawing, and gaming offers. I love good food and I am always to have for a good recommendation.  Additionally, I cherish the moments spent with friends over good food and games

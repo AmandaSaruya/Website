@@ -13,24 +13,26 @@ navbar:
           href: landing-page.html
         - text: "About"
           href: about.html
+
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
+
+install.packages("postcards")
+
+postcards::create_postcard("postcard.Rmd")
+
 
  footer and a table of contents on each page.
 
 [Link to Landing Page](landing-page.html)
 [Link to Index](index.html)
 [Link to About](about.html)
+[Link to Postcdocs](postcard.html)
 
 
 
 
-
-library(rmarkdown)
-render_site()
-
-rmarkdown::render_site()
 
 

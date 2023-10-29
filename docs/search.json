@@ -5,16 +5,23 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-26T20:45:43+02:00"
+      "contents": "\r\nThe trend of the temporal stability of riskrender_site()\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-10-29T12:29:40+01:00"
     },
     {
       "path": "index.html",
       "title": "temporal stability of risk",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\nLink to Landing Page\r\nLink to Index\r\nLink to About\r\nlibrary(rmarkdown)\r\nrender_site()\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-26T20:45:44+02:00"
+      "contents": "\r\ninstall.packages(“postcards”)\r\npostcards::create_postcard(“postcard.Rmd”)\r\nfooter and a table of contents on each page.\r\nLink to Landing Page\r\nLink to Index\r\nLink to About\r\nLink to Postcdocs\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-10-29T12:17:50+01:00"
+    },
+    {
+      "path": "postcard.html",
+      "title": "Willkommen!",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          temporal stability of risk\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Willkommen!\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            Link to Landing Page Link to Index Link to About Link to Postcdocs\r\n            Hello everyone, my name is Amanda. I am currently a\r\n            psychology student based near the city of Basel. Alongside\r\n            my academic pursuits, I find solace and joy in the art of\r\n            crocheting, drawing, and gaming offers. I love good food and\r\n            I am always to have for a good recommendation. Additionally,\r\n            I cherish the moments spent with friends over good food and\r\n            games\r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                    Home\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    landing page\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Project\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Willkommen!\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            Link to Landing Page Link to Index Link to About Link to Postcdocs\r\n            Hello everyone, my name is Amanda. I am currently a\r\n            psychology student based near the city of Basel. Alongside\r\n            my academic pursuits, I find solace and joy in the art of\r\n            crocheting, drawing, and gaming offers. I love good food and\r\n            I am always to have for a good recommendation. Additionally,\r\n            I cherish the moments spent with friends over good food and\r\n            games\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                    Home\r\n                    \r\n                \r\n                                \r\n                    \r\n                    landing page\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Project\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Email\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2023-10-29T12:20:02+01:00"
     }
   ],
   "collections": []
