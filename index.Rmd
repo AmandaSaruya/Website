@@ -1,41 +1,24 @@
 ---
-title: "temporal stability of risk"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
-navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "Landing page"
-      href: landing-page.html
-    - text: "About"
-      href: about.html
-      menu:
-        - text: "Landing Page"
-          href: landing-page.html
-        - text: "About"
-          href: about.html
-
-description: |
-  Welcome to the website. I hope you enjoy it!
-site: distill::distill_website
+title: "Hello and Welcome" # Titel in der Webseite 
+image: "B.jpg" # Titelbild 
+color1: "#5A59A3"  # Farbe 1 vom Hintergrundverlauf
+color2: "#C66060"  # Farbe 2 vom Hintergrundverlauf
+angle: 130         # Winkel für Hintergrundverlauf diese drei Parameter gehören auf *jede* Haupt- und Unterseite, welche die Farbe haben soll.
+links:
+  - label: Caaats
+    url: "https://cat-bounce.com/"
+  - label: Videos for cats
+    url: "https://www.youtube.com/watch?v=_jqWwQNWsg4"
+  - label: Musik for work
+    url: "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+  - label: Email
+    url: "amanda.holzer@stud.unibas.ch"
+site: distill::distill_website # diese Zeile muss im Index haben, damit diese als Hauptseite registriert wird.
 ---
+ 
+Hii. This is my website for myself and anything which intrests me. It is for hobbies, fun and a little bit of projects from UNI. Wish you fun. 
 
-install.packages("postcards")
-
-postcards::create_postcard("My project.Rmd")
-
-
- footer and a table of contents on each page.
-
-[Link to Landing Page](landing-page.html)
-[Link to Index](index.html)
-[Link to About](about.html)
-[Link to Postcdocs](postcard.html)
-
-
-
-
-
+```{r, echo=FALSE, out.width = "90%", out.height = "90%"}
+knitr::include_graphics("pusheen.gif")
+```
 

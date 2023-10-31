@@ -1,0 +1,23 @@
+name: "."
+title: "temporal stability of risk"
+# theme: "styles.css" activate to add custom theme to the whole website
+color1: "#5A59A3" 
+color2: "#C66060"
+angle: 130
+description: |
+    mfeo
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Menu"
+      menu:
+      - text: "Home"
+        href: index.html
+        # icon: fa-github 
+        # man kann hier auch Icons anstatt Text verwenden
+      - text: "Welcome"
+        href: about.html
+      - text: "Project"
+        href: landing-page.html
+output: 
+  postcards::onofre

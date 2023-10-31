@@ -13,8 +13,6 @@ links:
     url: "about.html"
   - label: Email
     url: "mailto:amanda.holzer@stud.unibas.ch"
-output:
-  postcards::onofre
 ---
 
 
